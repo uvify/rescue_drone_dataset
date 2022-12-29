@@ -24,20 +24,14 @@
 
 
 ## Download
-* [TBD](https://www.google.com)
+* [Download link](http://gofile.me/5GdTf/nyq5Erduh)
 
 
 ## Directory Structure
 <pre>
  [root path]/
- └──[scene number]/                  
-    ├──scene_number.bag
-    ├──image_times.txt
-    ├──audio_times.txt
-    ├──[scene_number].WAV
-    ├──[scene_number].mp4(TBD)
-    └──[images]/
-        └──(frame_number).png
+ └──[scene_01-30].mp4
+   
 </pre>
 
 
