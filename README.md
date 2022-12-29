@@ -27,12 +27,6 @@
 * [Download link](http://gofile.me/5GdTf/nyq5Erduh)
 
 
-## Directory Structure
-<pre>
- [root path]/
- └──[scene_01-30].mp4
-   
-</pre>
 
 
 
