@@ -7,13 +7,13 @@
 
 ## Dataset Example
 ### Below are example images of the dataset.
-* Text informations about the rescue site
+* Text informations about the rescue site.
 <p align='center'>
     <img src="./config/ocr_example_01.png" alt="drawing" width="400" />
     <img src="./config/ocr_example_02.png" alt="drawing" width ="400" />
 </p>
 
-* People at the rescue site
+* People at the rescue site.
 <p align='center'>
     <img src="./config/human_example_01.png" alt="drawing" width="400" /> 
     <img src="./config/human_example_02.png" alt="drawing" width="400" /> 
