@@ -6,19 +6,18 @@
 
 
 ## Dataset Example
-* Images below are example images from dataset
+### Below are example images of the dataset.
 
-* OCR example
+* Text informations about the rescue site
 <p align='center'>
     <img src="./config/ocr_example_01.png" alt="drawing" width="400" />
     <img src="./config/ocr_example_02.png" alt="drawing" width ="400" />
 </p>
 
-* Object recognition example
+* People at the rescue site
 <p align='center'>
     <img src="./config/human_example_01.png" alt="drawing" width="400" /> 
     <img src="./config/human_example_02.png" alt="drawing" width="400" /> 
-
 </p>
 
 
