@@ -24,8 +24,8 @@
 
 
 ## Download
+### Please click on the link below to download.
 * [Download link](http://gofile.me/5GdTf/nyq5Erduh)
-
 
 
 
