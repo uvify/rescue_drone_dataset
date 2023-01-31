@@ -1,5 +1,4 @@
-# Lifesaving dataset captured by drone.
-
+# Human rescue dataset acquired by drones 
 ## Introduction
  * We have captured ten different virtual indoor rescue scenarios by a drone. The video and audio sets were captured on a drone three times for each sequence. We dressed mannequins as firefighters, rescuers, medical staff, and the general person(male, female, child). We arranged mannequins in a different pose for each scenario, and the audio of the rescue request voice was configured differently(male, female, child).
 
